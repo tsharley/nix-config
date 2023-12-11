@@ -1,0 +1,3 @@
+[submodule "nix-starter-configs"]
+	path = nix-starter-configs
+	url = ./nix-starter-configs/
